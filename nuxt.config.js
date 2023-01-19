@@ -21,7 +21,7 @@ export default {
   plugins: [],
 
   axios: {
-    baseURL: "http://localhost:3000/api",
+    baseURL: "http://localhost:8000",
   },
 
   // Auto import components: https://go.nuxtjs.dev/config-components
